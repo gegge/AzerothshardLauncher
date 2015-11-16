@@ -1,0 +1,9 @@
+c:\users\luigi\documents\visual studio 2015\Projects\testlauncher\testlauncher\bin\Release\testlauncher.exe.config
+c:\users\luigi\documents\visual studio 2015\Projects\testlauncher\testlauncher\bin\Release\testlauncher.exe
+c:\users\luigi\documents\visual studio 2015\Projects\testlauncher\testlauncher\bin\Release\testlauncher.pdb
+c:\users\luigi\documents\visual studio 2015\Projects\testlauncher\testlauncher\obj\Release\testlauncher.csprojResolveAssemblyReference.cache
+c:\users\luigi\documents\visual studio 2015\Projects\testlauncher\testlauncher\obj\Release\testlauncher.Form1.resources
+c:\users\luigi\documents\visual studio 2015\Projects\testlauncher\testlauncher\obj\Release\testlauncher.Properties.Resources.resources
+c:\users\luigi\documents\visual studio 2015\Projects\testlauncher\testlauncher\obj\Release\testlauncher.csproj.GenerateResource.Cache
+c:\users\luigi\documents\visual studio 2015\Projects\testlauncher\testlauncher\obj\Release\testlauncher.exe
+c:\users\luigi\documents\visual studio 2015\Projects\testlauncher\testlauncher\obj\Release\testlauncher.pdb

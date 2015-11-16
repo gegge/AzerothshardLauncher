@@ -1,0 +1,1 @@
+c:\users\luigi\documents\visual studio 2015\Projects\testlauncher\testlauncher\bin\Debug\testlauncher.exe.config
