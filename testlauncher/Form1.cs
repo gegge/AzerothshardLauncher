@@ -31,6 +31,8 @@ namespace testlauncher
             
             webBrowser1.WebBrowserShortcutsEnabled = false;
             webBrowser1.ScrollBarsEnabled = false;
+            webBrowser1.ScriptErrorsSuppressed = true;
+
         }
 
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
